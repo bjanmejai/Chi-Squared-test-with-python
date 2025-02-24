@@ -1,1 +1,3 @@
 # Chi-Squared-test-with-python
+
+Chi-squared (χ²) goodness of fit test is a hypothesis test that determines whether an observed categorical variable with more than two possible levels follows an expected distribution. The null hypothesis (H0) of the test is that the categorical variable follows the expected distribution. The alternative hypothesis (Ha) is that the categorical variable does not follow the expected distribution. Consider the scenario in this reading that will define the null and alternative hypotheses based on the scenario, set up a Goodness of Fit test, evaluate the test results, and draw a conclusion. 
